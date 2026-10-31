@@ -1,0 +1,20 @@
+{
+  "id": "conv-1783133782447-dzpuzsys1",
+  "providerId": "codex",
+  "title": "@常用tip/ 给我新建一个文档叫机器配置",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1783133782447,
+  "lastActivityAt": 1783145411597,
+  "sessionId": null,
+  "selectedModel": "openai-codex/gpt-5.5",
+  "usage": {
+    "inputTokens": 15273,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 2432,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 15273,
+    "percentage": 6,
+    "model": "gpt-5.5"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "conv-1782884964961-i968fb447",
+  "providerId": "codex",
+  "title": "帮我优化一下这个文件格式",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1782884964965,
+  "lastActivityAt": 1782898040848,
+  "sessionId": null,
+  "selectedModel": "openai-codex/gpt-5.5",
+  "usage": {
+    "inputTokens": 57350,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 55808,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 57350,
+    "percentage": 22,
+    "model": "gpt-5.5"
+  }
+}

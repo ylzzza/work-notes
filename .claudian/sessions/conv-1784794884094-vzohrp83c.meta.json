@@ -1,0 +1,20 @@
+{
+  "id": "conv-1784794884094-vzohrp83c",
+  "providerId": "codex",
+  "title": "帮我在这个文档中 补充 git 配置流程",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1784794884094,
+  "lastActivityAt": 1784794928640,
+  "sessionId": null,
+  "selectedModel": "openai-codex/gpt-5.5",
+  "usage": {
+    "inputTokens": 15618,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 12672,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 15618,
+    "percentage": 6,
+    "model": "gpt-5.5"
+  }
+}

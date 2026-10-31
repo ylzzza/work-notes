@@ -1,0 +1,20 @@
+{
+  "id": "conv-1782877058808-4d7rt38tj",
+  "providerId": "codex",
+  "title": "你好",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1782877058812,
+  "lastActivityAt": 1782884922220,
+  "sessionId": null,
+  "selectedModel": "openai-codex/gpt-5.5",
+  "usage": {
+    "inputTokens": 17560,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 16256,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 17560,
+    "percentage": 7,
+    "model": "gpt-5.5"
+  }
+}

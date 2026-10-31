@@ -1,0 +1,21 @@
+{
+  "id": "conv-1784187185124-f76r11b8e",
+  "providerId": "codex",
+  "title": "帮我把 tcp模拟器的 命令换成这个  cd /sw/public/env/sim_npu",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1784187185125,
+  "lastActivityAt": 1784187225094,
+  "sessionId": null,
+  "selectedModel": "openai-codex/gpt-5.5",
+  "linkedContentPath": "常用tip/AGIC命令/基础环境.md",
+  "usage": {
+    "inputTokens": 14119,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 13696,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 14119,
+    "percentage": 5,
+    "model": "gpt-5.5"
+  }
+}

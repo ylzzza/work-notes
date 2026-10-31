@@ -1,0 +1,20 @@
+{
+  "id": "conv-1783337895748-25jl5y1p0",
+  "providerId": "codex",
+  "title": "下面这份可以直接当笔记保存。",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1783337895748,
+  "lastActivityAt": 1783338024705,
+  "sessionId": null,
+  "selectedModel": "openai-codex/gpt-5.5",
+  "usage": {
+    "inputTokens": 15202,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 14336,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 15202,
+    "percentage": 6,
+    "model": "gpt-5.5"
+  }
+}
