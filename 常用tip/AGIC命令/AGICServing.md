@@ -36,6 +36,10 @@ source env_setup_agic.sh AGIC_BACKEND=db530
   export EXECUTION_ENVIRONMENT=2
 make dev AGIC_BACKEND=db500
 source env_setup_agic.sh AGIC_BACKEND=db500   AGIC_DUMP_DEBUG_MODE=2
+
+
+
+AGIC_PROFILE_LEVEL=1 性能指令
 ```
 4. 运行 Qwen 示例
 
